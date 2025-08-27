@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,aws,html,css,js,nodejs,express,mysql,git,github,vscode,[figma&perline=7](https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif)" />
+  <img src="https://skillicons.dev/icons?i=java,python,androidstudio,aws,html,css,js,nodejs,express,mysql,git,github,vscode,[figma&perline=7][(https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif)](https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif)" />
 </p>
 
 <!-- Adding a GIF under skills -->
