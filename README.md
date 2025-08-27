@@ -15,8 +15,7 @@
 - 💻 Skilled in **Java, Python, Android Studio, AWS**  
 - 🎨 Exploring **UI/UX design & creative solutions**  
 - 🌱 Always learning and improving my **backend + cloud knowledge**  
-- ✈️ Dreaming of working and growing my career in **Australia**  
-
+-  🌈 Dedicated **Special Needs Teacher**, helping children with Autism, ADHD & Learning Disabilities 
 ---
 
 ## 🛠️ Tech Stack  
