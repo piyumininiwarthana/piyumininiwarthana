@@ -1,7 +1,7 @@
 <!-- Profile README for Piyumini Niwarthana -->
 
 <h1 align="center">Hi there, I'm Piyumini 👩‍💻</h1>
-<h3 align="center">🚀 IT Undergraduate | 💡 Aspiring UI/UX Designer | ☁️ Cloud & Mobile Enthusiast | 🌈 Special Needs Teacher</h3>
+<h3 align="center">🚀 IT Undergraduate | 💡 Aspiring UI/UX Designer | ☁️ Cloud & Mobile Enthusiast | 🌈 Teacher</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding girl gif"/>
