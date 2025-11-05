@@ -15,8 +15,7 @@
 - 💻 Skilled in **Java, Python, Android Studio, AWS**  
 - 🎨 Exploring **UI/UX design & creative solutions**  
 - 🌱 Always learning and improving my **backend + cloud knowledge**  
-- 🌈 Dedicated **Special Needs Teacher**, helping children with Autism, ADHD & Learning Disabilities  
-
+- 🌈 Dedicated **Administrator  of student  affairs **
 ---
 
 ## 🛠️ Tech Stack  
