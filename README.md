@@ -15,7 +15,7 @@
 - 💻 Skilled in **Java, Python, Android Studio, AWS**  
 - 🎨 Exploring **UI/UX design & creative solutions**  
 - 🌱 Always learning and improving my **backend + cloud knowledge**  
-- 🌈 Dedicated Administrator  of student  affairs 
+- 🌈 Dedicated **Administrator  of student  affairs**
 ---
 
 ## 🛠️ Tech Stack  
